@@ -4,6 +4,9 @@ Détection d'intrusions réseau **multiclasse** sur NSL-KDD (régression logisti
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ASvIWpIBysMLx4bvfcdCrOQwpG8YJ6Lt)
 [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/shakirjalal/nsl-kdd-datasets-in-csv-format)
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-B22222)](https://attack.mitre.org/)
+
+![Architecture du pipeline de détection, mapping ATT&CK et corrélation SIEM](images/pipeline.png)
 
 ## Objectif
 
